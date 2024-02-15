@@ -1,5 +1,5 @@
 # CODSOFT
-UI/UX internship January 2024
+UI/UX internship January-February 2024
 
 Please find the following links to my task on Figma,
 
